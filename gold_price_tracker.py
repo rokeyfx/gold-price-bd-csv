@@ -182,11 +182,7 @@ def git_commit_push():
             logger.error(f"Initial push failed: {result.stderr}")
             return False
 
-    # Fetch and merge latest from GitHub first
-    subprocess.run(["git", "fetch", "origin"], cwd=repo_path, capture_output=True)
-    subprocess.run(["git", "reset", "--hard", "origin/main"], cwd=repo_path, capture_output=True)
-
-    # Re-apply changes
+    # Always force push from local to GitHub (local is source of truth)
     subprocess.run(["git", "add", "."], cwd=repo_path, capture_output=True)
 
     result = subprocess.run(["git", "status", "--porcelain"], cwd=repo_path, capture_output=True, text=True)
@@ -197,7 +193,7 @@ def git_commit_push():
     commit_msg = f"Update: {get_today_date()}"
     subprocess.run(["git", "commit", "-m", commit_msg], cwd=repo_path, capture_output=True)
 
-    result = subprocess.run(["git", "push", "origin", "main"],
+    result = subprocess.run(["git", "push", "--force", "origin", "main"],
                            cwd=repo_path, capture_output=True, text=True)
 
     if result.returncode == 0:
