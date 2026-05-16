@@ -19,3 +19,22 @@
 2026-05-16 23:47:38,494 - INFO - Today's prices unchanged (2026-05-16) - no update needed
 2026-05-16 23:47:38,495 - INFO - No changes - skipping git push
 2026-05-16 23:47:38,495 - INFO - Gold Price Tracker completed successfully
+2026-05-16 23:48:12,261 - INFO - ==================================================
+2026-05-16 23:48:12,262 - INFO - Gold Price Tracker started
+2026-05-16 23:48:12,262 - INFO - Fetching gold prices from BAJUS...
+2026-05-16 23:48:12,380 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-16 23:48:12,385 - INFO - Appended new row for 2026-05-16
+2026-05-16 23:48:12,385 - ERROR - GitHub credentials not set in .env
+2026-05-16 23:48:12,459 - INFO - Gold Price Tracker completed successfully
+2026-05-16 23:48:37,022 - INFO - ==================================================
+2026-05-16 23:48:37,022 - INFO - Gold Price Tracker started
+2026-05-16 23:48:37,023 - INFO - Fetching gold prices from BAJUS...
+2026-05-16 23:48:37,137 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-16 23:48:37,140 - INFO - Today's prices unchanged (2026-05-16) - no update needed
+2026-05-16 23:48:37,141 - INFO - No changes - skipping git push
+2026-05-16 23:48:37,141 - INFO - Gold Price Tracker completed successfully
+2026-05-16 23:50:03,413 - INFO - ==================================================
+2026-05-16 23:50:03,413 - INFO - Gold Price Tracker started
+2026-05-16 23:50:03,413 - INFO - Fetching gold prices from BAJUS...
+2026-05-16 23:50:03,629 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-16 23:50:03,638 - INFO - Appended new row for 2026-05-16
