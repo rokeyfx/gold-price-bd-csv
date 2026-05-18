@@ -218,3 +218,220 @@
 2026-05-18 00:00:00,937 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
 2026-05-18 00:00:00,943 - INFO - Appended new row for 2026-05-18
 2026-05-18 00:00:00,943 - INFO - Appended new row for 2026-05-18
+2026-05-18 00:00:03,516 - INFO - Successfully pushed to GitHub
+2026-05-18 00:00:03,516 - INFO - Successfully pushed to GitHub
+2026-05-18 00:00:03,733 - INFO - Gold Price Tracker completed successfully
+2026-05-18 00:00:03,733 - INFO - Gold Price Tracker completed successfully
+2026-05-18 01:04:12,542 - INFO - ==================================================
+2026-05-18 01:04:12,543 - INFO - Gold Price Tracker started
+2026-05-18 01:04:12,543 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 01:04:13,220 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 01:04:13,230 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 01:04:13,230 - INFO - No changes - skipping git push
+2026-05-18 01:04:13,230 - INFO - Gold Price Tracker completed successfully
+2026-05-18 03:19:50,449 - INFO - ==================================================
+2026-05-18 03:19:50,449 - INFO - Gold Price Tracker started
+2026-05-18 03:19:50,449 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 03:19:51,041 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 03:19:51,050 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 03:19:51,050 - INFO - No changes - skipping git push
+2026-05-18 03:19:51,050 - INFO - Gold Price Tracker completed successfully
+2026-05-18 04:00:01,483 - INFO - ==================================================
+2026-05-18 04:00:01,483 - INFO - ==================================================
+2026-05-18 04:00:01,483 - INFO - Gold Price Tracker started
+2026-05-18 04:00:01,483 - INFO - Gold Price Tracker started
+2026-05-18 04:00:01,484 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 04:00:01,484 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 04:00:01,648 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 04:00:01,648 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 04:00:01,657 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 04:00:01,657 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 04:00:01,657 - INFO - No changes - skipping git push
+2026-05-18 04:00:01,657 - INFO - No changes - skipping git push
+2026-05-18 04:00:01,657 - INFO - Gold Price Tracker completed successfully
+2026-05-18 04:00:01,657 - INFO - Gold Price Tracker completed successfully
+2026-05-18 05:45:03,036 - INFO - ==================================================
+2026-05-18 05:45:03,036 - INFO - Gold Price Tracker started
+2026-05-18 05:45:03,036 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 05:45:03,640 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 05:45:03,649 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 05:45:03,649 - INFO - No changes - skipping git push
+2026-05-18 05:45:03,649 - INFO - Gold Price Tracker completed successfully
+2026-05-18 08:00:06,124 - INFO - ==================================================
+2026-05-18 08:00:06,124 - INFO - ==================================================
+2026-05-18 08:00:06,124 - INFO - Gold Price Tracker started
+2026-05-18 08:00:06,124 - INFO - Gold Price Tracker started
+2026-05-18 08:00:06,124 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 08:00:06,124 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 08:00:06,623 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 08:00:06,623 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 08:00:06,631 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 08:00:06,631 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 08:00:06,631 - INFO - No changes - skipping git push
+2026-05-18 08:00:06,631 - INFO - No changes - skipping git push
+2026-05-18 08:00:06,631 - INFO - Gold Price Tracker completed successfully
+2026-05-18 08:00:06,631 - INFO - Gold Price Tracker completed successfully
+2026-05-18 08:17:59,876 - INFO - ==================================================
+2026-05-18 08:17:59,876 - INFO - Gold Price Tracker started
+2026-05-18 08:17:59,877 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 08:18:00,207 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 08:18:00,213 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 08:18:00,213 - INFO - No changes - skipping git push
+2026-05-18 08:18:00,213 - INFO - Gold Price Tracker completed successfully
+2026-05-18 10:00:05,279 - INFO - ==================================================
+2026-05-18 10:00:05,279 - INFO - ==================================================
+2026-05-18 10:00:05,280 - INFO - Gold Price Tracker started
+2026-05-18 10:00:05,280 - INFO - Gold Price Tracker started
+2026-05-18 10:00:05,280 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 10:00:05,280 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 10:00:05,910 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 10:00:05,910 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 10:00:05,922 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 10:00:05,922 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 10:00:05,922 - INFO - No changes - skipping git push
+2026-05-18 10:00:05,922 - INFO - No changes - skipping git push
+2026-05-18 10:00:05,922 - INFO - Gold Price Tracker completed successfully
+2026-05-18 10:00:05,922 - INFO - Gold Price Tracker completed successfully
+2026-05-18 10:33:46,565 - INFO - ==================================================
+2026-05-18 10:33:46,565 - INFO - Gold Price Tracker started
+2026-05-18 10:33:46,565 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 10:33:46,788 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 10:33:46,796 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 10:33:46,797 - INFO - No changes - skipping git push
+2026-05-18 10:33:46,797 - INFO - Gold Price Tracker completed successfully
+2026-05-18 12:00:07,053 - INFO - ==================================================
+2026-05-18 12:00:07,053 - INFO - ==================================================
+2026-05-18 12:00:07,054 - INFO - Gold Price Tracker started
+2026-05-18 12:00:07,054 - INFO - Gold Price Tracker started
+2026-05-18 12:00:07,054 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 12:00:07,054 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 12:00:07,549 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 12:00:07,549 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 12:00:07,558 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 12:00:07,558 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 12:00:07,558 - INFO - No changes - skipping git push
+2026-05-18 12:00:07,558 - INFO - No changes - skipping git push
+2026-05-18 12:00:07,559 - INFO - Gold Price Tracker completed successfully
+2026-05-18 12:00:07,559 - INFO - Gold Price Tracker completed successfully
+2026-05-18 12:33:46,960 - INFO - ==================================================
+2026-05-18 12:33:46,960 - INFO - Gold Price Tracker started
+2026-05-18 12:33:46,960 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 12:33:47,146 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 12:33:47,153 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 12:33:47,154 - INFO - No changes - skipping git push
+2026-05-18 12:33:47,154 - INFO - Gold Price Tracker completed successfully
+2026-05-18 14:00:00,457 - INFO - ==================================================
+2026-05-18 14:00:00,457 - INFO - ==================================================
+2026-05-18 14:00:00,458 - INFO - Gold Price Tracker started
+2026-05-18 14:00:00,458 - INFO - Gold Price Tracker started
+2026-05-18 14:00:00,458 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 14:00:00,458 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 14:00:00,729 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 14:00:00,729 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 14:00:00,733 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 14:00:00,733 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 14:00:00,734 - INFO - No changes - skipping git push
+2026-05-18 14:00:00,734 - INFO - No changes - skipping git push
+2026-05-18 14:00:00,734 - INFO - Gold Price Tracker completed successfully
+2026-05-18 14:00:00,734 - INFO - Gold Price Tracker completed successfully
+2026-05-18 14:33:47,313 - INFO - ==================================================
+2026-05-18 14:33:47,314 - INFO - Gold Price Tracker started
+2026-05-18 14:33:47,314 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 14:33:47,576 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 14:33:47,582 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 14:33:47,583 - INFO - No changes - skipping git push
+2026-05-18 14:33:47,583 - INFO - Gold Price Tracker completed successfully
+2026-05-18 16:00:01,280 - INFO - ==================================================
+2026-05-18 16:00:01,280 - INFO - ==================================================
+2026-05-18 16:00:01,280 - INFO - Gold Price Tracker started
+2026-05-18 16:00:01,280 - INFO - Gold Price Tracker started
+2026-05-18 16:00:01,280 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 16:00:01,280 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 16:00:01,456 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 16:00:01,456 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 16:00:01,460 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 16:00:01,460 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 16:00:01,461 - INFO - No changes - skipping git push
+2026-05-18 16:00:01,461 - INFO - No changes - skipping git push
+2026-05-18 16:00:01,461 - INFO - Gold Price Tracker completed successfully
+2026-05-18 16:00:01,461 - INFO - Gold Price Tracker completed successfully
+2026-05-18 16:33:47,844 - INFO - ==================================================
+2026-05-18 16:33:47,844 - INFO - Gold Price Tracker started
+2026-05-18 16:33:47,844 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 16:33:48,106 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 16:33:48,114 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 16:33:48,114 - INFO - No changes - skipping git push
+2026-05-18 16:33:48,114 - INFO - Gold Price Tracker completed successfully
+2026-05-18 18:00:01,747 - INFO - ==================================================
+2026-05-18 18:00:01,747 - INFO - ==================================================
+2026-05-18 18:00:01,748 - INFO - Gold Price Tracker started
+2026-05-18 18:00:01,748 - INFO - Gold Price Tracker started
+2026-05-18 18:00:01,748 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 18:00:01,748 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 18:00:01,927 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 18:00:01,927 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 18:00:01,932 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 18:00:01,932 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 18:00:01,932 - INFO - No changes - skipping git push
+2026-05-18 18:00:01,932 - INFO - No changes - skipping git push
+2026-05-18 18:00:01,932 - INFO - Gold Price Tracker completed successfully
+2026-05-18 18:00:01,932 - INFO - Gold Price Tracker completed successfully
+2026-05-18 18:33:48,274 - INFO - ==================================================
+2026-05-18 18:33:48,275 - INFO - Gold Price Tracker started
+2026-05-18 18:33:48,275 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 18:33:48,533 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 18:33:48,539 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 18:33:48,540 - INFO - No changes - skipping git push
+2026-05-18 18:33:48,540 - INFO - Gold Price Tracker completed successfully
+2026-05-18 20:00:01,416 - INFO - ==================================================
+2026-05-18 20:00:01,416 - INFO - ==================================================
+2026-05-18 20:00:01,417 - INFO - Gold Price Tracker started
+2026-05-18 20:00:01,417 - INFO - Gold Price Tracker started
+2026-05-18 20:00:01,417 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 20:00:01,417 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 20:00:01,603 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 20:00:01,603 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 20:00:01,607 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 20:00:01,607 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 20:00:01,608 - INFO - No changes - skipping git push
+2026-05-18 20:00:01,608 - INFO - No changes - skipping git push
+2026-05-18 20:00:01,608 - INFO - Gold Price Tracker completed successfully
+2026-05-18 20:00:01,608 - INFO - Gold Price Tracker completed successfully
+2026-05-18 20:33:48,877 - INFO - ==================================================
+2026-05-18 20:33:48,878 - INFO - Gold Price Tracker started
+2026-05-18 20:33:48,879 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 20:33:49,151 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 20:33:49,158 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 20:33:49,158 - INFO - No changes - skipping git push
+2026-05-18 20:33:49,158 - INFO - Gold Price Tracker completed successfully
+2026-05-18 22:00:00,561 - INFO - ==================================================
+2026-05-18 22:00:00,561 - INFO - ==================================================
+2026-05-18 22:00:00,562 - INFO - Gold Price Tracker started
+2026-05-18 22:00:00,562 - INFO - Gold Price Tracker started
+2026-05-18 22:00:00,562 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 22:00:00,562 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 22:00:00,838 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 22:00:00,838 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 22:00:00,843 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 22:00:00,843 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 22:00:00,844 - INFO - No changes - skipping git push
+2026-05-18 22:00:00,844 - INFO - No changes - skipping git push
+2026-05-18 22:00:00,844 - INFO - Gold Price Tracker completed successfully
+2026-05-18 22:00:00,844 - INFO - Gold Price Tracker completed successfully
+2026-05-18 22:44:52,953 - INFO - ==================================================
+2026-05-18 22:44:52,954 - INFO - Gold Price Tracker started
+2026-05-18 22:44:52,954 - INFO - Fetching gold prices from BAJUS...
+2026-05-18 22:44:53,239 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-18 22:44:53,245 - INFO - Today's prices unchanged (2026-05-18) - no update needed
+2026-05-18 22:44:53,246 - INFO - No changes - skipping git push
+2026-05-18 22:44:53,246 - INFO - Gold Price Tracker completed successfully
+2026-05-19 00:00:00,528 - INFO - ==================================================
+2026-05-19 00:00:00,528 - INFO - ==================================================
+2026-05-19 00:00:00,529 - INFO - Gold Price Tracker started
+2026-05-19 00:00:00,529 - INFO - Gold Price Tracker started
+2026-05-19 00:00:00,529 - INFO - Fetching gold prices from BAJUS...
+2026-05-19 00:00:00,529 - INFO - Fetching gold prices from BAJUS...
+2026-05-19 00:00:01,037 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-19 00:00:01,037 - INFO - Extracted prices: {'k22': 20415, 'k21': 19490, 'k18': 16705, 'traditional': 13605}
+2026-05-19 00:00:01,045 - INFO - Appended new row for 2026-05-19
+2026-05-19 00:00:01,045 - INFO - Appended new row for 2026-05-19
