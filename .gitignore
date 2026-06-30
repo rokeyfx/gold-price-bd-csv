@@ -1,1 +1,8 @@
-.env
+# Logs and errors
+*.log
+*.err
+# macOS
+.DS_Store
+# Python
+__pycache__/
+*.pyc

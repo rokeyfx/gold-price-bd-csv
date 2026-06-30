@@ -14,8 +14,12 @@ import urllib.error
 from datetime import datetime
 from pathlib import Path
 
-# Load .env
-ENV_FILE = Path(__file__).parent / ".env"
+# Script directory — use as base for all relative paths so CWD doesn't matter
+# (cron / launchd run with varying CWDs; this makes file locations deterministic)
+SCRIPT_DIR = Path(__file__).parent.resolve()
+
+# Load .env from script directory
+ENV_FILE = SCRIPT_DIR / ".env"
 if ENV_FILE.exists():
     with open(ENV_FILE) as f:
         for line in f:
@@ -26,9 +30,10 @@ if ENV_FILE.exists():
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 GITHUB_REPO = os.getenv("GITHUB_REPO")
-CSV_PATH = Path(os.getenv("CSV_PATH", "prices.csv"))
-SILVER_CSV_PATH = Path(os.getenv("SILVER_CSV_PATH", "price-silver.csv"))
-LOG_PATH = Path(os.getenv("LOG_PATH", "gold_tracker.log"))
+# All paths default to script-relative (absolute). Env override still allowed.
+CSV_PATH = Path(os.getenv("CSV_PATH", str(SCRIPT_DIR / "prices.csv")))
+SILVER_CSV_PATH = Path(os.getenv("SILVER_CSV_PATH", str(SCRIPT_DIR / "price-silver.csv")))
+LOG_PATH = Path(os.getenv("LOG_PATH", str(SCRIPT_DIR / "gold_tracker.log")))
 BAJUS_URL = "https://www.bajus.org/gold-price"
 CSV_FIELDS = ["date", "k18", "k21", "k22", "traditional"]
 
