@@ -2626,3 +2626,17 @@
 2026-06-28 23:21:46,395 - INFO - Today's prices unchanged (2026-06-28) - no update needed
 2026-06-28 23:21:46,396 - INFO - No changes - skipping git push
 2026-06-28 23:21:46,396 - INFO - Gold Price Tracker completed successfully
+2026-06-30 01:50:17,465 - INFO - ==================================================
+2026-06-30 01:50:17,505 - INFO - Gold Price Tracker started
+2026-06-30 01:50:17,510 - INFO - Fetching BAJUS page...
+2026-06-30 01:50:18,031 - INFO - Extracted gold prices: {'k22': 19315, 'k21': 18445, 'k18': 15840, 'traditional': 12940}
+2026-06-30 01:50:18,066 - INFO - Today's prices unchanged (2026-06-30) in prices.csv - no update needed
+2026-06-30 01:50:18,067 - INFO - Extracted silver prices: {'k22': 400, 'k21': 380, 'k18': 325, 'traditional': 245}
+2026-06-30 01:50:18,068 - ERROR - Unexpected error: [Errno 30] Read-only file system: 'price-silver.csv'
+2026-06-30 12:13:15,496 - INFO - ==================================================
+2026-06-30 12:13:15,522 - INFO - Gold Price Tracker started
+2026-06-30 12:13:15,523 - INFO - Fetching BAJUS page...
+2026-06-30 12:13:15,974 - INFO - Extracted gold prices: {'k22': 19030, 'k21': 18175, 'k18': 15610, 'traditional': 12755}
+2026-06-30 12:13:16,019 - INFO - Updated existing row for 2026-06-30 in prices.csv
+2026-06-30 12:13:16,057 - INFO - Extracted silver prices: {'k22': 385, 'k21': 365, 'k18': 315, 'traditional': 235}
+2026-06-30 12:13:16,058 - ERROR - Unexpected error: [Errno 30] Read-only file system: 'price-silver.csv'
