@@ -1,3 +1,5 @@
+# Environment (contains GitHub PAT — never commit)
+.env
 # Logs and errors
 *.log
 *.err
